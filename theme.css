@@ -1,0 +1,5 @@
+.widget .header{
+	background-color: #ff3700;
+    background-image: linear-gradient(180deg, #63d471 0%, #233329 120%);
+    padding: 9px 8px !important;
+}
